@@ -1,4 +1,2 @@
 # Keran_Python
-
-
-resa
+This is a colleciton and testing floder for studying keras
